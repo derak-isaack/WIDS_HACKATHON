@@ -1,0 +1,9 @@
+hacks_wids/
+models/
+PCA/
+submissions/
+TEST/
+TRAIN/
+Data/NILEARN_TRAIN_CONNECTOME_MATRICES.csv
+Data/NILEARN_TEST_CONNECTOME_MATRICES.csv
+Data/
